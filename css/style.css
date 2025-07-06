@@ -8967,7 +8967,9 @@ h1, h2, h3, h4, h5,
     font-weight: 600; }
   @media (min-width: 992px) {
     .ftco-hireme img {
-      margin-top: -90px; } }
+      margin-top: -70px;
+      width: 90%; /* or any specific value like 400px */
+      height: 220px;  } }
 
 .project {
   width: 100%;
